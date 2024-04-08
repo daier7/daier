@@ -6,6 +6,28 @@ http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/inde
 http://112.19.171.156:9999/udp/239.93.0.162:2192
 #EXTINF:-1 group-title="老公台" tvg-id="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
 http://112.19.171.156:9999/udp/239.93.0.118:2191
+#EXTINF:-1 group-title="老婆台" tvg-id="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png",黑莓电影
+http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 group-title="老婆台" tvg-id="超级电影" tvg-logo="https://live.fanmingming.com/tv/超级电影.png",超级电影
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+#EXTINF:-1 group-title="艺涵台" tvg-id="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png",黑莓动画
+http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 group-title="艺涵台" tvg-id="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png",金鹰卡通
+http://116.128.243.121:9901/tsfile/live/1007_1.m3u8
+#EXTINF:-1 group-title="艺涵台" tvg-id="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png",嘉佳卡通
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
+#EXTINF:-1 group-title="艺涵台" tvg-id="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png",优漫卡通
+http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
+#EXTINF:-1 group-title="艺涵台" tvg-id="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png",卡酷少儿
+https://cdn2.jdshipin.com/api/bst2.php?id=kkse8m/8000000
+#EXTINF:-1 group-title="艺涵台" tvg-id="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png",动漫秀场
+https://cdn2.jdshipin.com/api/bst2.php?id=dmxc8m/8000000
+#EXTINF:-1 group-title="艺涵台" tvg-id="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 group-title="艺涵台" tvg-id="倒霉特熊" ,倒霉特熊
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
+#EXTINF:-1 group-title="艺涵台" tvg-id="CCTV少儿" tvg-logo="https://live.fanmingming.com/tv/CCTV少儿.png",CCTV少儿
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
 #EXTINF:-1 group-title="家乡台" tvg-id="郴州综合广播" tvg-logo="https://live.fanmingming.com/tv/郴州综合广播.png",郴州综合广播
 http://222.241.145.143:8888/udp/239.76.246.75:1234
 #EXTINF:-1 group-title="秘密台" tvg-id="老师-我还要" ,老师-我还要
