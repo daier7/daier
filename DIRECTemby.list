@@ -7,7 +7,7 @@ DOMAIN-SUFFIX,us.nanflix.net
 # nyamedia
 DOMAIN-SUFFIX,emby.bangumi.ca
 
-# 起点站
+# 起点站公费服
 IP-CIDR,192.99.35.111
 DOMAIN-SUFFIX,favoritewife.com
 
