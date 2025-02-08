@@ -1,8 +1,13 @@
+# 好鸭🦆机场服
 DOMAIN-SUFFIX,jcf.niceduck.lol
 DOMAIN-SUFFIX,cf.niceduck.lol
-DOMAIN-SUFFIX,play.charontv.com
-DOMAIN-SUFFIX,embyplus.org
 DOMAIN-SUFFIX,dpxcf.niceduck.lol
+
+# charontv卡戎
+DOMAIN-SUFFIX,play.charontv.com
+
+# 纸片人
+DOMAIN-SUFFIX,embyplus.org
+
+# 起点站公益服
 DOMAIN-SUFFIX,emby-qdz-hk.pppp.us.kg
-DOMAIN-SUFFIX,b.emby.my
-DOMAIN-SUFFIX,a.emby.my
