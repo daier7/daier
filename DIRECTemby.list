@@ -1,5 +1,25 @@
+# alphatv海外服
 DOMAIN-SUFFIX,oversea.alphatvapp.top
+
+# nanflix南飞
 DOMAIN-SUFFIX,us.nanflix.net
+
+# nyamedia
 DOMAIN-SUFFIX,emby.bangumi.ca
+
+# 起点站
 IP-CIDR,192.99.35.111
 DOMAIN-SUFFIX,favoritewife.com
+
+# YKK机场服1111
+DOMAIN-SUFFIX,ykk.emby.moe
+
+# 🪿鹅
+DOMAIN-SUFFIX,cavps.eu.org
+
+# 🥮月饼
+DOMAIN-SUFFIX,b.emby.my
+DOMAIN-SUFFIX,.emby.my
+
+# 稳健服
+DOMAIN-SUFFIX,emby.wenjian.de
