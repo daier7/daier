@@ -19,7 +19,7 @@ DOMAIN-SUFFIX,cavps.eu.org
 
 # 🥮月饼
 DOMAIN-SUFFIX,b.emby.my
-DOMAIN-SUFFIX,.emby.my
+DOMAIN-SUFFIX,a.emby.my
 
 # 稳健服
 DOMAIN-SUFFIX,emby.wenjian.de
