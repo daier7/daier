@@ -26,3 +26,6 @@ DOMAIN-SUFFIX,a.emby.my
 
 # 稳健服
 DOMAIN-SUFFIX,emby.wenjian.de
+
+# 舒服
+DOMAIN-SUFFIX,emby3.mcjoker.xyz
