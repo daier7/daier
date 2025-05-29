@@ -1,9 +1,5 @@
-docker.com
-
-hub.docker.com
-
-registry-1.docker.io
-
-index.docker.io
-
-registry.hub.docker.com
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,hub.docker.com
+DOMAIN-SUFFIX,registry-1.docker.io
+DOMAIN-SUFFIX,index.docker.io
+DOMAIN-SUFFIX,registry.hub.docker.com
